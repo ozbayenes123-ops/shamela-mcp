@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: ws.shamela.mcp.Main
+Implementation-Title: shamela-mcp helper
+Implementation-Version: 0.0.1
